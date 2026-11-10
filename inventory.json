@@ -2,19 +2,23 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "Paco",
-      "cantidad": 4,
       "fecha_entrada": "2026-11-10",
-      "ultima_modificacion": "2026-11-10",
-      "motivo": "Compra inicial"
-    },
+      "cantidad": 4,
+      "nombre": "Pepe",
+      "dependencias_adscripcion": "xd",
+      "localizacion": "bait?",
+      "motivo": "Compra inicial",
+      "ultima_modificacion": "2026-11-10"
+    }
     {
       "id": 2,
+      "fecha_entrada": "2026-11-10",
+      "cantidad": 4,
       "nombre": "Juan",
-      "cantidad": 6,
-      "fecha_entrada": "2026-11-08",
-      "ultima_modificacion": "2026-11-10",
-      "motivo": "Reposición"
+      "dependencias_adscripcion": "dx",
+      "localizacion": "nobait?",
+      "motivo": "Compra inicial",
+      "ultima_modificacion": "2026-11-10"
     }
   ]
 }
