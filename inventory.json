@@ -1,3 +1,20 @@
 {
-  "productos": []
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Teclado mecánico",
+      "cantidad": 5,
+      "fecha_entrada": "2026-11-10",
+      "ultima_modificacion": "2026-11-10",
+      "motivo": "Compra inicial"
+    },
+    {
+      "id": 2,
+      "nombre": "Monitor",
+      "cantidad": 3,
+      "fecha_entrada": "2026-11-08",
+      "ultima_modificacion": "2026-11-09",
+      "motivo": "Reposición"
+    }
+  ]
 }
