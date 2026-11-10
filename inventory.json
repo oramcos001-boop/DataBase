@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "Teclado mecánico",
+      "nombre": "Paco",
       "cantidad": 4,
       "fecha_entrada": "2026-11-10",
       "ultima_modificacion": "2026-11-10",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "nombre": "Monitor",
+      "nombre": "Juan",
       "cantidad": 6,
       "fecha_entrada": "2026-11-08",
       "ultima_modificacion": "2026-11-10",
