@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Teclado mecánico",
-      "cantidad": 5,
+      "cantidad": 4,
       "fecha_entrada": "2026-11-10",
       "ultima_modificacion": "2026-11-10",
       "motivo": "Compra inicial"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "nombre": "Monitor",
-      "cantidad": 2,
+      "cantidad": 6,
       "fecha_entrada": "2026-11-08",
       "ultima_modificacion": "2026-11-10",
       "motivo": "Reposición"
