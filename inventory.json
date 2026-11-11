@@ -3,12 +3,12 @@
     {
       "id": 1,
       "fecha_entrada": "2026-11-10",
-      "cantidad": 4,
+      "cantidad": 6,
       "nombre": "Pepe",
       "dependencias_adscripcion": "xd",
       "localizacion": "bait?",
       "motivo": "Compra inicial",
-      "ultima_modificacion": "2026-11-10"
+      "ultima_modificacion": "2026-11-11"
     },
     {
       "id": 2,
